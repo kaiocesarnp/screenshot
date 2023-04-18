@@ -17,8 +17,3 @@ screenshot.save('screenshot.png')
                                         # para salvar a captura de tela como uma imagem PNG. 
                                         # O nome do arquivo é definido como "screenshot.png", que é 
                                         # o nome do arquivo de saída. 
-
-# Você pode alterar o nome do arquivo e o formato da imagem (por exemplo, JPEG) conforme necessário.
-
-# Após a execução desse código, uma captura de tela do monitor será tirada e salva como 
-    # uma imagem PNG com o nome "screenshot.png" no diretório onde o código está sendo executado.
