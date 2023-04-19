@@ -1,7 +1,7 @@
 # screenshot
 O código apresentado é um exemplo básico de como usar a biblioteca PyAutoGUI em Python para tirar uma captura de tela (screenshot) do monitor e salvá-la como uma imagem PNG.
 
-Para usar este código, primeiro deve-se instalar os módulos 'pyautogui' e 'pillow'. Execute os comandos 'pip instal pyautogui' e 'pip install pillow' no terminal.
+Para usar este código, primeiro deve-se instalar os módulos 'pyautogui' e 'pillow'. Execute os comandos 'pip install pyautogui' e 'pip install pillow' no terminal.
 
 Você pode alterar o nome do arquivo e o formato da imagem (por exemplo, JPEG) conforme necessário.
 
